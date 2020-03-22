@@ -1,0 +1,60 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wang.opengl_10">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+    <activity android:name=".NavigationActivity">
+
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <action android:name="android.intent.action.VIEW"/>
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+
+    </activity>
+
+
+        <activity android:name="com.android.chapter2.ChapterMain"/>
+        <activity android:name="com.android.chapter3.ChapterMain"/>
+        <activity android:name="com.android.chapter4.ChapterMain"/>
+        <activity android:name="com.android.chapter5.ChapterMain"/>
+        <activity android:name="com.android.chapter6.ChapterMain"/>
+        <activity android:name="com.android.chapter7.ChapterMain"/>
+        <activity android:name="com.android.chapter8.ChapterMain"/>
+        <activity android:name="com.android.chapter9.ChapterMain"/>
+        <activity android:name="com.android.chapter10.ChapterMain"/>
+        <activity android:name="com.android.chapter11.ChapterMain"/>
+        <activity android:name="com.android.chapter12.ChapterMain"/>
+        <activity android:name="com.android.chapter13.ChapterMain"/>
+        <activity android:name="com.android.chapter14.ChapterMain"/>
+        <activity android:name="com.android.chapter15.ChapterMain"/>
+        <activity android:name="com.android.chapter16.ChapterMain"/>
+        <activity android:name="com.android.chapter17.ChapterMain"/>
+        <activity android:name="com.android.chapter18.ChapterMain"/>
+        <activity android:name="com.android.chapter19.ChapterMain"/>
+        <activity android:name="com.android.chapter20.ChapterMain"/>
+        <activity android:name="com.android.chapter21.ChapterMain"/>
+        <activity android:name="com.android.chapter22.ChapterMain"/>
+        <activity android:name="com.android.chapter23.ChapterMain"/>
+        <activity android:name="com.android.chapter24.ChapterMain"/>
+        <activity android:name="com.android.chapter25.ChapterMain"/>
+        <activity android:name="com.android.chapter26.ChapterMain"/>
+        <activity android:name="com.android.chapter27.ChapterMain"/>
+        <activity android:name="com.android.chapter28.ChapterMain"/>
+        <activity android:name="com.android.chapter29.ChapterMain"/>
+        <activity android:name="com.android.chapter30.ChapterMain"/>
+        <activity android:name="com.android.chapter31.ChapterMain"/>
+        <activity android:name="com.android.chapter32.ChapterMain"/>
+
+
+
+
+
+
+    </application>
+</manifest>

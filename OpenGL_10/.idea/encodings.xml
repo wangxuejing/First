@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter15/GLRender.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter2/ChapterMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter22/GLRender.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter3/GLRender.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter4/ChapterMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter4/GLRender.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter6/GLRender.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter7/ChapterMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter7/GLRender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter8/GLRender.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/android/chapter8/Tunnel3D.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wang/opengl_10/NavigationActivity.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
